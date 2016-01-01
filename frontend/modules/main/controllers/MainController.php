@@ -11,3 +11,5 @@ class MainController extends Controller
         return $this->render('index');
     }
 }
+
+ echo 'some changes';
